@@ -1,7 +1,6 @@
 /** Author: Yasaman Hosseini
  *
- * A simple game that will give you points for how many times you can click on the ball
- * Solution to: Programming 1, task 3
+ * A simple game that will give you points for how many times you can click on the ball.
  *
  */
 float borderY = 240;  // Circle y position
