@@ -1,7 +1,6 @@
 /** Author: Yasaman Hosseini
  *
- * Recursion
- * Solution to: Programming 1, task 6
+ * Using recursion to produce fractal shapes that increase or decrease with the arrow keys.
  *
  */
 
