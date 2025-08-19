@@ -1,7 +1,6 @@
 /** Author: Yasaman Hosseini
  *
- * An Explosion
- * Solution to: Programming 1, task 5
+ * An Explosion of shapes based on mouse pressure.
  *
  */
 int n=200; //number of shapes
