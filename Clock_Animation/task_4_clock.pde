@@ -1,7 +1,6 @@
 /** Author: Yasaman Hosseini
  *
- * Drawing of an analog clock
- * Solution to: Programming 1, task 4
+ * Drawing of an analog clock that changes size and color based on mouse movement.
  *
  */
 float hourAngel=0; // The angel of the hour hand
